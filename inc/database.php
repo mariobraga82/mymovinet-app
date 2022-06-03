@@ -1,7 +1,7 @@
 <?php
-$servername = "showmestuff-db.cbcebkle1jza.eu-west-1.rds.amazonaws.com";
-$username = "dev";
-$password = "iHP5aRC06bfKslq7";
+$servername = "showmestuff-1.cdv5owlna2ty.eu-west-3.rds.amazonaws.com";
+$username = "mysqladmin";
+$password = "P4ssword12345";
 $dbname = "entertainment";
 
 // Create connection
