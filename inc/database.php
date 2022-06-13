@@ -1,5 +1,5 @@
 <?php
-$servername = "showmestuff-1.cdv5owlna2ty.eu-west-3.rds.amazonaws.com";
+$servername = "showmestuff-staging.cdv5owlna2ty.eu-west-3.rds.amazonaws.com";
 $username = "mysqladmin";
 $password = "P4ssword12345";
 $dbname = "entertainment";
